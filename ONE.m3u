@@ -87,9 +87,7 @@ https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo="http://rafail1982.uz/logo/Мир 24.png"tvg-chno=""group-title=""catchup=""catchup-days="":http-user-agent="TiviMate",Мир 24
 #EXTVLCOPT:http-user-agent=TiviMate
 https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="287"tvg-logo="http://rafail1982.uz/logo/Мир 24 HD.png"tvg-chno=""group-title=""catchup=""catchup-days="":http-user-agent="TiviMate",Мир 24 HD
-#EXTVLCOPT:http-user-agent=TiviMate
-http://dmitry-tv.ddns.net/hls/CH_MIR24HD.m3u8
+
 #EXTINF:-1 tvg-name=""tvg-id="31-kanal-kz"tvg-logo=""tvg-chno=""group-title=""catchup=""catchup-days="":http-user-agent="Dalvik/2.1.0",31 Канал
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://smarty.oktv.kz/tvmiddleware/api/channel/url/?cid=6&device=android_stb&client_id=1&authkey=fceb15e8f73be3fd883c2ec490e8d0d69d989dd0b5a284e5c107902b9d2960465923bc93581ef74040c44e3a93d108388f1b8b9d6b89e2f39ea29efee8b72897&timezone=0
